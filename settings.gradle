@@ -1,0 +1,2 @@
+rootProject.name = "Laputa_fmod"
+include ':app'
